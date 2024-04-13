@@ -4,10 +4,12 @@ This project was developed as part of the Web Engineering subject. It implements
 **Blog:**
 The blog features a collection of articles organized into cards. Users can easily navigate through articles using the filtering and search functionalities. Additionally, the "go to top" button ensures smooth navigation within the blog pages.
 
+
 <div style="display:flex; justify-content: space-around;">
-    <img src="https://github.com/Worood11/Blog/assets/141271078/cd224d77-20f1-4dc2-91c4-f627ba93d136" alt="Screenshot 1" width="400" height="auto">
+    <img src="https://github.com/Worood11/Blog/assets/141271078/55e08afc-a4f6-4046-b171-99c246965161" alt="Screenshot 1" width="400" height="auto">
     <img src="https://github.com/Worood11/Blog/assets/141271078/dd90f023-8546-40c1-b931-b021ce4018cf" alt="Screenshot 2" width="400" height="auto">
 </div>
+
 
 **Functionality Overview**
 
