@@ -8,6 +8,7 @@ The blog features a collection of articles organized into cards. Users can easil
 <div style="display:flex; justify-content: space-around;">
     <img src="https://github.com/Worood11/Blog/assets/141271078/55e08afc-a4f6-4046-b171-99c246965161" alt="Screenshot 1" width="400" height="auto">
     <img src="https://github.com/Worood11/Blog/assets/141271078/dd90f023-8546-40c1-b931-b021ce4018cf" alt="Screenshot 2" width="400" height="auto">
+    <img src="https://github.com/Worood11/Blog/assets/141271078/46782068-05fb-42e1-818f-3de334d6daf0" alt="Screenshot 3" width="400" height="auto">
 </div>
 
 
